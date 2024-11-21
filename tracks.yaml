@@ -1,5 +1,5 @@
 tracks:
-  rolling:
+  humble:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
       :{vcs_uri} --name :{name} --output-dir :{archive_dir_path}
@@ -20,7 +20,7 @@ tracks:
     release_inc: 0
     release_repo_url: null
     release_tag: :{version}
-    ros_distro: rolling
+    ros_distro: humble
     vcs_type: git
     vcs_uri: https://github.com/carologistics/clips_vendor.git
     version: :{auto}
@@ -49,7 +49,7 @@ tracks:
     vcs_type: git
     vcs_uri: https://github.com/carologistics/clips_vendor.git
     version: :{auto}
-  humble:
+  rolling:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
       :{vcs_uri} --name :{name} --output-dir :{archive_dir_path}
@@ -70,7 +70,7 @@ tracks:
     release_inc: 0
     release_repo_url: null
     release_tag: :{version}
-    ros_distro: humble
+    ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/carologistics/clips_vendor.git
     version: :{auto}
