@@ -1,3 +1,26 @@
+## clips_vendor (rolling) - 6.4.3-1
+
+The packages in the `clips_vendor` repository were released into the `rolling` distro by running `/home/tviehmann/.local/bin/bloom-release --new-track --rosdistro rolling --track rolling clips_vendor` on `Sat, 05 Jul 2025 11:45:52 -0000`
+
+The `clips_vendor` package was released.
+
+Version of package(s) in repository `clips_vendor`:
+
+- upstream repository: https://github.com/carologistics/clips_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `6.4.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.23.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## clips_vendor (kilted) - 6.4.3-1
 
 The packages in the `clips_vendor` repository were released into the `kilted` distro by running `/home/tviehmann/.local/bin/bloom-release --rosdistro kilted clips_vendor` on `Sun, 22 Jun 2025 11:10:33 -0000`
