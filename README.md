@@ -1,3 +1,26 @@
+## clips_vendor (humble) - 6.4.3-1
+
+The packages in the `clips_vendor` repository were released into the `humble` distro by running `/home/tviehmann/.local/bin/bloom-release --rosdistro humble clips_vendor` on `Thu, 02 Apr 2026 12:53:07 -0000`
+
+The `clips_vendor` package was released.
+
+Version of package(s) in repository `clips_vendor`:
+
+- upstream repository: https://github.com/carologistics/clips_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `6.4.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## clips_vendor (rolling) - 6.4.3-1
 
 The packages in the `clips_vendor` repository were released into the `rolling` distro by running `/home/tviehmann/.local/bin/bloom-release --new-track --rosdistro rolling --track rolling clips_vendor` on `Sat, 05 Jul 2025 11:45:52 -0000`
