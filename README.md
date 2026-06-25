@@ -1,3 +1,26 @@
+## clips_vendor (kilted) - 6.4.4-1
+
+The packages in the `clips_vendor` repository were released into the `kilted` distro by running `/home/tviehmann/packaging/bloom/.venv/bin/bloom-release -r kilted clips_vendor` on `Thu, 25 Jun 2026 14:35:10 -0000`
+
+The `clips_vendor` package was released.
+
+Version of package(s) in repository `clips_vendor`:
+
+- upstream repository: https://github.com/carologistics/clips_vendor.git
+- release repository: https://github.com/ros2-gbp/clips_vendor-release.git
+- rosdistro version: `6.4.3-1`
+- old version: `6.4.3-1`
+- new version: `6.4.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## clips_vendor (humble) - 6.4.4-1
 
 The packages in the `clips_vendor` repository were released into the `humble` distro by running `/home/tviehmann/packaging/bloom/.venv/bin/bloom-release -r humble clips_vendor` on `Thu, 25 Jun 2026 14:32:52 -0000`
